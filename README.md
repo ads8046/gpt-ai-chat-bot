@@ -16,6 +16,6 @@ Installs all Node.JS, React.JS, and Express.JS dependancies.
 
 Runs the backend server and nodemon for monitoring server changes.
 
-### 2. `npm run start:frontend`
+### 3. `npm run start:frontend`
 
 Spins up the React.JS frontend in the browser on localhost:8000 (PORT: 8000).
