@@ -1,6 +1,8 @@
 # Getting Started with the LuminaAI ChatBot
 
-This project is a custom chatbot powered by the OpenAI Chats API. The project is a clone of ChatGPT and was developed for getting an understanding of the OpenAI APIs, the parameters to tune the desired output, and recollect 
+This project is a custom chatbot powered by the OpenAI Chats API. The project is a clone of ChatGPT and was developed for getting an understanding of the OpenAI APIs and the API parameters to tune the desired output. This web app is not created for commercial use.
+
+Author: Atharva Shivankar <ads8046@rit.edu>
 
 ## Starting the project
 
