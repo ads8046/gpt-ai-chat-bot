@@ -6,7 +6,7 @@ Author: Atharva Shivankar <ads8046@rit.edu>
 
 ## Starting the project
 
-In the project directory, run the following script commands to get the project going:
+In the root of project directory, run the following script commands to get the project going:
 
 ### 1.  `npm install`
 
